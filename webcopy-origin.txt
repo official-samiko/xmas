@@ -1,0 +1,96 @@
+Uri: https://cdn.jsdelivr.net/npm/chart.js
+File Name: C:\Downloaded Web Sites\santatokensol.io\npm\chart.js
+Content Type: application/javascript
+
+Uri: https://santatokensol.io/
+File Name: C:\Downloaded Web Sites\santatokensol.io\index.htm
+Content Type: text/html
+
+Uri: https://santatokensol.io/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://santatokensol.io/assets/css/style.min.css
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://santatokensol.io/assets/fonts/ChristmasSparkle_PERSONAL.ttf
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\fonts\ChristmasSparkle_PERSONAL.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://santatokensol.io/assets/img/brands/1.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\brands\1.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/brands/2.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\brands\2.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/brands/3.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\brands\3.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/brands/4.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\brands\4.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/brands/5.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\brands\5.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/brands/6.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\brands\6.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/brands/7.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\brands\7.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/count-style-2.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\count-style-2.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/count-style.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\count-style.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/footer-style-2.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\footer-style-2.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/footer-style.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\footer-style.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/input-bg.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\input-bg.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/playback.mp4
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\playback.mp4
+Content Type: video/mp4
+
+Uri: https://santatokensol.io/assets/img/pricing-style.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\pricing-style.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/telegram-cloud.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\telegram-cloud.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/img/tree-and-dots.png
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\img\tree-and-dots.png
+Content Type: image/png
+
+Uri: https://santatokensol.io/assets/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://santatokensol.io/assets/js/script.js
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\js\script.js
+Content Type: application/x-javascript
+
+Uri: https://santatokensol.io/assets/js/snowfall.js
+File Name: C:\Downloaded Web Sites\santatokensol.io\assets\js\snowfall.js
+Content Type: application/x-javascript
+
